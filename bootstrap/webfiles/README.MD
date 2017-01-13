@@ -1,0 +1,1 @@
+Go for here -> https://www.onehippo.org/trails/developer-trail/configure-out-of-the-box-features/configure-news-overview.html
